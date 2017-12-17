@@ -1,5 +1,12 @@
 # gosu-image
 
+## Tags and Dockerfiles
+
+ * `latest` [(Dockerfile)](https://github.com/building5/gosu-image/blob/master/Dockerfile)
+ * `1.10` [(Dockerfile)](https://github.com/building5/gosu-image/blob/1.10/Dockerfile)
+
+## Info
+
 This is a Docker image with the [gosu][] binary in it. You can use this image in
 a multi-stage build as a super-convenient way to install `gosu` into your
 images.
